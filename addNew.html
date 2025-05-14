@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Note-Degree Game</title>
+    <link rel="stylesheet" href="addNewStyle.css">
+  </head>
+  <body>
+    <header>
+      <h1>Random degree of a note game</h1>
+    </header>
+
+    <section class="container">
+      <form id="my-form">
+        <input class="btn" type="button" id="get-random" value="GET A RANDOM NOTE">
+        <div>
+          <label for="scale">Note: <span class="descriptive">(A, Bb, C#, ...)</span></label>
+          <input type="text" id="scale" readonly>
+      </div>
+      
+        <div>
+          <label for="degree">Degree: <span class="descriptive">(1, b3, 5, ...)</span></label>
+          <input type="text" id="degree" readonly>
+        </div>
+        <input class="btn" type="button" id="see-answer" value="See the answer">
+        <div>
+          <label for="show">Show</label>
+          <input type="text" id="show" readonly>
+        </div>
+      </form>
+
+      
+    </section>
+    
+
+    <script src="main.js"></script>
+  </body>
+</html>
