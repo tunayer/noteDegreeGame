@@ -11,9 +11,7 @@
 ## 🧠 How It Works
 
 1. A random note and degree are generated.
-2. Four answer options are displayed.
-3. The user selects the answer.
-4. The game provides immediate feedback on whether the answer is correct.
+2. User tries to guess the correct note based on the degree shown.
 
 ## 🚀 Getting Started
 
