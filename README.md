@@ -1,6 +1,6 @@
 # 🎵 Note Degree Game
 
-**Note Degree Game** is a simple web-based music theory game that helps users practice and learn the relationship between musical notes and their degrees. Users are shown a note and a scale degree, and must choose the correct answer from four options.
+**Note Degree Game** is a simple web-based music theory game that helps users practice and learn the relationship between musical notes and their degrees.
 
 ## 📁 Project Structure
 
