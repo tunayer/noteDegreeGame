@@ -39,5 +39,3 @@ no build tools or servers required
 
 - [ ] Add audio playback for each note  
 - [ ] Implement levels or timed mode  
-- [ ] Store high scores in `localStorage` or a database  
-- [ ] Improve responsiveness for mobile devices
